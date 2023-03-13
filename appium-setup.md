@@ -42,4 +42,10 @@ npm install -g appium
 ```
 appium
 ```
-
+9. How to run: 
+       a. Run with Intellij: choose TymeDemo.xml --> right click --> run
+       b. Run with gradle: (not include this version)
+10. Report: We have three report type
+      a. html report when run with gradle and testng
+      b. excel report(not include this version)
+      c. real time report with slack (not include this version)
