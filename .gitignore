@@ -3,7 +3,5 @@ target/
 /.idea
 /build
 /gradle
-/out
-/src/test/testreports
-/src/test/java/tyme/apps
+
 
